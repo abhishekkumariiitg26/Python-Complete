@@ -1,4 +1,6 @@
 def print_number(n):
     print(n+10)
 
-print_number(100)
+chaione="lemon tea"
+chaitwo="ginger tea"
+chaithree="masala tea"
