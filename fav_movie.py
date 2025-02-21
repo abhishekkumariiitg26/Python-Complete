@@ -1,7 +1,6 @@
 mylist=[]
 
 for i in range(0,3):
-    movie=input(f"Enter fav movie {i+1}:")
-    mylist.append(movie)
+    mylist.append(input(f"Enter fav movie {i+1}:"))
 
 print(mylist)
